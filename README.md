@@ -33,4 +33,4 @@ Me enfoco en la creación de interfaces web funcionales, responsivas y bien estr
 ## 📫 Contacto
 
 📧 contreras4893@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/mateo-abrahan-figueroa-contreras-539746188/
+💼 [LinkedIn](https://www.linkedin.com/in/mateo-abrahan-figueroa-contreras-539746188/)
